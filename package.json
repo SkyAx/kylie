@@ -1,0 +1,17 @@
+{
+  "name": "kylie",
+  "version": "1.0.0",
+  "description": "Landing page for cosmetics \"Kylie\".",
+  "main": "gulpfile.js",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-server-livereload": "^1.9.2"
+  },
+  "scripts": {
+    "start": "gulp",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
